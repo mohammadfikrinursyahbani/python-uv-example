@@ -1,0 +1,2 @@
+fastexcel==0.10.4
+duckdb==1.1.0
